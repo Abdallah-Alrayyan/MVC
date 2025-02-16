@@ -1,0 +1,248 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+/* Hero Section */
+.hero {
+    position: relative;
+    background: url('images/hero.webp') center/cover no-repeat;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+    /* Add an overlay to the hero image */
+    .hero::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        /* Semi-transparent black */
+        z-index: 1;
+        /* Ensure it sits on top of the image */
+    }
+
+    /* Adjust hero content to be above the overlay */
+    .hero > div {
+        position: relative;
+        z-index: 2;
+    }
+
+
+
+    .hero h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    .hero button {
+        padding: 1rem 2rem;
+        font-size: 1.2rem;
+        background: #f39c12;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+        .hero button:hover {
+            background: #d35400;
+        }
+
+/* Category Section */
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 4rem 2rem;
+    background: #f9f9f9;
+}
+
+.category {
+    width: 300px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .category img {
+        height: 200px;
+        object-fit: cover;
+        padding: 10px;
+        border-radius: 7%;
+        width: 90%;
+    }
+
+    .category h3 {
+        padding: 1rem 0;
+        font-size: 1.5rem;
+    }
+
+    .category button {
+        padding: 0.8rem 1.5rem;
+        margin-bottom: 1rem;
+        background: #333;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+        .category button:hover {
+            background: #f39c12;
+        }
+
+    .category:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+/* Featured Products */
+.featured {
+    padding: 4rem 2rem;
+    background: white;
+}
+
+    .featured h2 {
+        text-align: center;
+        margin-bottom: 2rem;
+        font-size: 2.5rem;
+        color: #333;
+    }
+
+.featured-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.product-card {
+    width: 250px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .product-card img {
+        height: 200px;
+        object-fit: cover;
+        padding: 10px;
+        border-radius: 7%;
+        width: 90%;
+    }
+
+    .product-card h3 {
+        padding: 1rem 0;
+        font-size: 1.2rem;
+        color: #333;
+    }
+
+    .product-card button {
+        padding: 0.8rem 1.5rem;
+        margin-bottom: 1rem;
+        background: #333;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+        .product-card button:hover {
+            background: #f39c12;
+        }
+
+    .product-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+/* Testimonials Section */
+.testimonials {
+    background: #f9f9f9;
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+    .testimonials h2 {
+        margin-bottom: 2rem;
+        font-size: 2.5rem;
+        color: #333;
+    }
+
+.testimonial-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.testimonial-card {
+    width: 300px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1.5rem;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .testimonial-card img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin-bottom: 1rem;
+        border: 2px solid #f39c12;
+    }
+
+    .testimonial-card p {
+        font-style: italic;
+        color: #555;
+    }
+
+    .testimonial-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }

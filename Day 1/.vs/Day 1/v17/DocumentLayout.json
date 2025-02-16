@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\home\\offers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\home\\offers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\wwwroot\\css\\navbar.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\wwwroot\\css\\navbar.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\wwwroot\\css\\offers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\wwwroot\\css\\offers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|c:\\users\\hi\\desktop\\mvc\\day 1\\day 1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193093FB-ECC0-4AAE-852A-C549D9959908}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:46:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Day 1\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "Day 1\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T20:19:53.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Home\\login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:17:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day 1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day 1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:40:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "navBar.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\navBar.css",
+              "RelativeDocumentMoniker": "Day 1\\wwwroot\\css\\navBar.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\navBar.css",
+              "RelativeToolTip": "Day 1\\wwwroot\\css\\navBar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T20:03:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Offers.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\Offers.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Home\\Offers.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\Offers.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Home\\Offers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T18:41:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T14:13:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\Contact.css",
+              "RelativeDocumentMoniker": "Day 1\\wwwroot\\css\\Contact.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\Contact.css",
+              "RelativeToolTip": "Day 1\\wwwroot\\css\\Contact.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAswGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T20:47:50.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Program.cs",
+              "RelativeDocumentMoniker": "Day 1\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Program.cs",
+              "RelativeToolTip": "Day 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:40:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Day 1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Day 1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T18:34:10.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "about.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\about.css",
+              "RelativeDocumentMoniker": "Day 1\\wwwroot\\css\\about.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\about.css",
+              "RelativeToolTip": "Day 1\\wwwroot\\css\\about.css",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T20:25:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T14:32:03.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Home\\about.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Home\\about.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:23:47.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "navBar.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\navBar.css",
+              "RelativeDocumentMoniker": "Day 1\\wwwroot\\css\\navBar.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\navBar.css",
+              "RelativeToolTip": "Day 1\\wwwroot\\css\\navBar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T14:29:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Offers.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\Offers.css",
+              "RelativeDocumentMoniker": "Day 1\\wwwroot\\css\\Offers.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\wwwroot\\css\\Offers.css",
+              "RelativeToolTip": "Day 1\\wwwroot\\css\\Offers.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T20:04:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Day 1\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T14:13:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 1\\Day 1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T14:13:14.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

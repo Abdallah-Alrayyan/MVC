@@ -1,0 +1,110 @@
+﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/* Header Styling */
+header {
+    display: flex;
+    justify-content: space-between;
+    /* Space between logo and nav */
+    align-items: center;
+    padding: 1rem 2rem;
+    background: #111;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    gap: 1.5rem;
+}
+
+    nav a {
+        color: white;
+        font-size: 1rem;
+        transition: color 0.3s;
+    }
+
+        nav a:hover {
+            color: #f39c12;
+        }
+
+.cart {
+    position: relative;
+    cursor: pointer;
+}
+
+    .cart span {
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        background: red;
+        color: white;
+        font-size: 0.8rem;
+        padding: 2px 5px;
+        border-radius: 50%;
+    }
+
+/* Dropdown Menu */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    cursor: pointer;
+    color: white;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+    .dropdown-toggle:hover {
+        color: #f39c12;
+    }
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    display: none;
+    flex-direction: column;
+    z-index: 1000;
+}
+
+    .dropdown-menu a {
+        color: #333;
+        padding: 0.8rem 1.2rem;
+        white-space: nowrap;
+        text-align: left;
+    }
+
+        .dropdown-menu a:hover {
+            background: #f39c12;
+            color: white;
+        }
+
+.dropdown:hover .dropdown-menu {
+    display: flex;
+}
+
+
+/* Footer */
+footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+    footer a {
+        color: #f39c12;
+    }

@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Day_1</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/navBar.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Offers.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/about.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Contact.css" asp-append-version="true" />
+
+
+</head>
+<body>
+    <header>
+        <div class="logo">BECK</div>
+        <nav>
+            
+            <a asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-controller="Home" asp-action="Offers">Offers</a>
+            <div class="dropdown">
+                <div class="dropdown-toggle">Categories</div>
+                <div class="dropdown-menu">
+                    <a href="clothes.html">Clothes</a>
+                    <a href="furniture.html">Furniture</a>
+                    <a href="food.html">Food</a>
+                </div>
+            </div>
+            <a asp-controller="Home" asp-action="about">about</a>
+            <a asp-controller="Home" asp-action="Contact">Contact</a>
+
+          
+
+            <!-- Font Awesome Icons for Profile, Wish List, and Cart -->
+            <a asp-controller="Home" asp-action="login">
+                <i class="fa fa-user"></i>
+                </a>
+
+            
+            <a href="wishlist.html" title="Wish List" class="icon-link">
+                <i class="fa fa-heart"></i>
+            </a>
+            <a href="#" class="icon-link cart" title="Cart">
+                <i class="fa fa-shopping-cart"></i>
+                <span>2</span>
+            </a>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>
+            &copy; 2025 BECK . All rights reserved. <a href="#">Privacy Policy</a> | <a href="#">
+                Terms of
+                Service
+            </a>
+        </p>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
