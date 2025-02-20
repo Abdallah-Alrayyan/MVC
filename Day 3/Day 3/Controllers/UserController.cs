@@ -5,6 +5,7 @@ using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pag
 using Day_3.Models;
 using System.Diagnostics;
 using System.Runtime.Intrinsics.Arm;
+using System.Xml.Linq;
 
 
 namespace Day_3.Controllers
@@ -29,6 +30,16 @@ namespace Day_3.Controllers
         public IActionResult editProfile()
         {
             return View();
+        }
+        [HttpPost]
+        public IActionResult editProfile1(string eName, string eEmail, string phone, string address)
+        {
+            HttpContext.Session.SetString("Name", eName);
+            HttpContext.Session.SetString("Email", eEmail);
+            HttpContext.Session.SetString("phone", phone);
+            HttpContext.Session.SetString("address", address);
+
+            return RedirectToAction("Porfile", "User");
         }
         [HttpPost]
         public IActionResult Signup(string name, string email, string password, string rpassword)
