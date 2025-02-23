@@ -1,25 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\",
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\new project\\new project\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\new project\\new project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\new project\\new project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\new project\\new project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\models\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\models\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\new project\\new project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|c:\\users\\hi\\desktop\\mvc\\day 6\\new project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE598CEA-D66A-46C7-9866-F09A1CFB6310}|New Project\\New Project.csproj|solutionrelative:new project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,35 +70,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "New Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "New Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T15:47:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "New Project\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "New Project\\Models\\ErrorViewModel.cs",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "New Project\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "New Project\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:42:45.348Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T15:47:26.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Models\\User.cs",
-              "RelativeDocumentMoniker": "New Project\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Models\\User.cs",
-              "RelativeToolTip": "New Project\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T07:24:12.402Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "New Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "New Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T15:47:22.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "New Project\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "New Project\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T15:47:18.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "New Project\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "New Project\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T15:47:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "New Project\\Models\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\DepartmentController.cs",
+              "RelativeToolTip": "New Project\\Models\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:47:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "New Project\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "New Project\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:46:28.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "New Project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "New Project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:42:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "New Project\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\User.cs",
+              "RelativeToolTip": "New Project\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:24:12.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\appsettings.json",
               "RelativeDocumentMoniker": "New Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\appsettings.json",
               "RelativeToolTip": "New Project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -78,11 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Program.cs",
               "RelativeDocumentMoniker": "New Project\\Program.cs",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Program.cs",
               "RelativeToolTip": "New Project\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,13 +211,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Models\\MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "New Project\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\New Project\\New Project\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 6\\New Project\\Models\\MyDbContext.cs",
               "RelativeToolTip": "New Project\\Models\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T07:21:58.123Z",
               "EditorCaption": ""
