@@ -6,6 +6,7 @@ using Day_3.Models;
 using System.Diagnostics;
 using System.Runtime.Intrinsics.Arm;
 using System.Xml.Linq;
+using System.Net;
 
 
 namespace Day_3.Controllers
@@ -17,6 +18,8 @@ namespace Day_3.Controllers
 
         public IActionResult Login()
         {// Read
+           
+
             var data = Request.Cookies["userInfo"];
             if (data != null)
                 return RedirectToAction("Index", "Home");
@@ -34,10 +37,15 @@ namespace Day_3.Controllers
         [HttpPost]
         public IActionResult editProfile1(string eName, string eEmail, string phone, string address)
         {
+            
             HttpContext.Session.SetString("Name", eName);
             HttpContext.Session.SetString("Email", eEmail);
             HttpContext.Session.SetString("phone", phone);
             HttpContext.Session.SetString("address", address);
+            HttpContext.Session.SetString("logEmail", eEmail);
+
+            
+
 
             return RedirectToAction("Porfile", "User");
         }
@@ -54,7 +62,7 @@ namespace Day_3.Controllers
 
             if (rpassword == password)
             {
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Login", "User");
             }
             else
             {
@@ -71,6 +79,10 @@ namespace Day_3.Controllers
         {
             var UEmail = HttpContext.Session.GetString("Email");
             var UPassword = HttpContext.Session.GetString("Password");
+
+
+            HttpContext.Session.SetString("logEmail", email);
+
             HttpContext.Session.SetString("Admin", "admin@gmail.com");
 
             if (email == UEmail && password == UPassword)
@@ -91,13 +103,15 @@ namespace Day_3.Controllers
             else
             {
                 TempData["LoginMsg"] = "Invalid Email or Password! Try Again.";
+                HttpContext.Session.Remove("logEmail");
                 return RedirectToAction("Login");
             }
         }
         public IActionResult Porfile()
         {
 
-
+          
+            
             ViewBag.Name = HttpContext.Session.GetString("Name");
             ViewBag.Email = HttpContext.Session.GetString("Email");
             ViewBag.Password = HttpContext.Session.GetString("Password");
@@ -108,6 +122,7 @@ namespace Day_3.Controllers
         public IActionResult LogOut()
         {
             HttpContext.Session.Clear();
+            Response.Cookies.Delete("userInfo");
             return RedirectToAction("Index", "Home");
 
         }

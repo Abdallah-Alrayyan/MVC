@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|c:\\users\\hi\\desktop\\mvc\\calculator\\calculator\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|c:\\users\\hi\\desktop\\mvc\\calculator\\calculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|c:\\users\\hi\\desktop\\mvc\\calculator\\calculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|c:\\users\\hi\\desktop\\mvc\\calculator\\calculator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{526B501A-AA22-4D82-9AB1-A8C009AFF3CA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Calculator\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\wwwroot\\js\\site.js*",
+              "RelativeToolTip": "Calculator\\wwwroot\\js\\site.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T08:32:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:04:38.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Calculator\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Calculator\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T08:04:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Calculator\\Calculator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:02:56.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

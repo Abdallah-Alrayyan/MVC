@@ -20,8 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/hi/Desktop/MVC/Day 1/Day 1/Views/Home/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hi/Desktop/MVC/Day 1/Day 1/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hi/Desktop/MVC/Day 1/Day 1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hi/Desktop/MVC/Day 1/Day 1/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hi/Desktop/MVC/Day 1/Day 1/Views/Home/Offers.cshtml]

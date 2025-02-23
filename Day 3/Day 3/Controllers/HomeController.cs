@@ -14,11 +14,6 @@ namespace Day_3.Controllers
         }
 
 
-
-
-
-
-
         public IActionResult Index()
         {
            

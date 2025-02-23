@@ -26,10 +26,11 @@
                         @{
                             string email = Context.Session.GetString("Email");
                             string admin = Context.Session.GetString("Admin");
+                            string logEmail = Context.Session.GetString("logEmail");
                             
                         }
                        
-                        @if (email != null && email != "admin@gmail.com")
+                        @if (email == logEmail && email != null )
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
@@ -41,7 +42,7 @@
                                 <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Porfile">Porfile</a>
                             </li>
                         }
-                        else if (admin == "admin@gmail.com")
+                        else if (logEmail == "admin@gmail.com")
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
