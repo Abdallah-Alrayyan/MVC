@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using New_Project.Models;
 
 namespace New_Project;
 
@@ -64,4 +65,6 @@ public partial class OrangeContext : DbContext
     }
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
+public DbSet<New_Project.Models.Product> Product { get; set; } = default!;
 }

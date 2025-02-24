@@ -15,6 +15,10 @@ public partial class MyDbContext : DbContext
     {
     }
 
+    public virtual DbSet<Department> Departments { get; set; }
+
+    public virtual DbSet<Product> Products { get; set; }
+
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -23,6 +27,49 @@ public partial class MyDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Department>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Departme__3214EC2743DB1DD6");
+
+            entity.ToTable("Department");
+
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.CreatedAt)
+                .HasColumnType("datetime")
+                .HasColumnName("created_at");
+            entity.Property(e => e.DepartmentName)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("department_name");
+            entity.Property(e => e.Location)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("location");
+            entity.Property(e => e.ManagerId).HasColumnName("manager_id");
+        });
+
+        modelBuilder.Entity<Product>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Product__3214EC27762B6D96");
+
+            entity.ToTable("Product");
+
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.Description)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("description");
+            entity.Property(e => e.Image)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("image");
+            entity.Property(e => e.Name)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("name");
+            entity.Property(e => e.Price).HasColumnName("price");
+        });
+
         modelBuilder.Entity<User>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__Users__3214EC077F6F063C");
