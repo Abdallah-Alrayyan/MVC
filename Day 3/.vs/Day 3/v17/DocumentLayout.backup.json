@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|c:\\users\\hi\\desktop\\mvc\\day 3\\day 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|solutionrelative:day 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|c:\\users\\hi\\desktop\\mvc\\day 3\\day 3\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|solutionrelative:day 3\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|solutionrelative:day 3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|c:\\users\\hi\\desktop\\mvc\\day 3\\day 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|solutionrelative:day 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|c:\\users\\hi\\desktop\\mvc\\day 3\\day 3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5688EC3-4B89-494B-9695-A6C20E641198}|Day 3\\Day 3.csproj|solutionrelative:day 3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -62,8 +62,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T19:21:40.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day 3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day 3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:21:21.22Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Day 3\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Day 3\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowHAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:46:30.484Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T15:03:17.372Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "editProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\editProfile.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\User\\editProfile.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\editProfile.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\User\\editProfile.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T13:02:50.599Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -74,72 +139,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Day 3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Day 3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Porfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Porfile.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\User\\Porfile.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Porfile.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\User\\Porfile.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T19:21:40.346Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Day 3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Day 3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:21:21.22Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T20:01:03.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Day 3\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Day 3\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAowHAAAAAKAAAAAAAAAA==",
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\User\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Signup.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\User\\Signup.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T18:16:31.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Day 3\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Day 3\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T15:57:41.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Program.cs",
+              "RelativeDocumentMoniker": "Day 3\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Program.cs",
+              "RelativeToolTip": "Day 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:46:30.484Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Day 3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Day 3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T15:03:17.372Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "editProfile.cshtml",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\editProfile.cshtml",
-              "RelativeDocumentMoniker": "Day 3\\Views\\User\\editProfile.cshtml",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\editProfile.cshtml",
-              "RelativeToolTip": "Day 3\\Views\\User\\editProfile.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T13:02:50.599Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-02-20T03:53:30.903Z",
               "EditorCaption": ""
             },
             {
@@ -152,47 +196,7 @@
               "RelativeToolTip": "Day 3\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T05:12:22.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Porfile.cshtml",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Porfile.cshtml",
-              "RelativeDocumentMoniker": "Day 3\\Views\\User\\Porfile.cshtml",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Porfile.cshtml",
-              "RelativeToolTip": "Day 3\\Views\\User\\Porfile.cshtml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T20:01:03.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Signup.cshtml",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Signup.cshtml",
-              "RelativeDocumentMoniker": "Day 3\\Views\\User\\Signup.cshtml",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Signup.cshtml",
-              "RelativeToolTip": "Day 3\\Views\\User\\Signup.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T18:16:31.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "Day 3\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "Day 3\\Views\\User\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T15:57:41.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T05:12:22.058Z"
             },
             {
               "$type": "Document",
@@ -216,21 +220,7 @@
               "RelativeToolTip": "Day 3\\Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T17:33:40.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Program.cs",
-              "RelativeDocumentMoniker": "Day 3\\Program.cs",
-              "ToolTip": "C:\\Users\\hi\\Desktop\\MVC\\Day 3\\Day 3\\Program.cs",
-              "RelativeToolTip": "Day 3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T03:53:30.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T17:33:40.946Z"
             },
             {
               "$type": "Document",
